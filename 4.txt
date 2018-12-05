@@ -1,2 +1,6 @@
 hjfjafjagfjagfagf
+<<<<<<< HEAD
 develop
+=======
+master
+>>>>>>> master
